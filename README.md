@@ -18,11 +18,13 @@
   ### Team Photo
 Photo is already in Media folder just link here*
 
+  ## Publication
+  1. Kelechi Ariwodo, Thien Nghi Duong, Carina George. Teaching Blender and Adobe Aero, ACMSE April 18-20 2024, Kennesaw State University
+
   ## Outreach Activities
     1. TAP Expo, 2024, Georgia Gwinnett College
     2. Atlanta Science Festival, 2024, Piedmont Park
     3. Class Workshops, 2024, Georgia Gwinnett College
-    4. ACMSE, April 18-20, 2024, Kennesaw State University
  
   ## Technology
   This workshop will be using Blender and Adobe Aero for both desktop as well as mobile
