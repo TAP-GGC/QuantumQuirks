@@ -36,6 +36,6 @@ Photo is already in Media folder just link here*
 Example: https://www.youtube.com/watch?v=W7AJaQqIAE0)
  
 ## Workshop Instructions
-Add the pdf instructions with the purple background to the Media folder and link here
+![How download Blender and Aero](Documents/How%20download%20Blender%20and%20Aero.pdf)
       
 
