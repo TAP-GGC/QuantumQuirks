@@ -16,7 +16,7 @@
   Cindy Robertson
 
   ### Team Photo
-<img src= "Media/groupPhoto.JPG"> <br>
+<img src= "Media/groupPhoto.JPG" width="400" height="200"> <br>
 
   ## Publication
   1. Kelechi Ariwodo, Thien Nghi Duong, Carina George. Teaching Blender and Adobe Aero, ACMSE April 18-20 2024, Kennesaw State University
