@@ -23,7 +23,7 @@ Photo is already in Media folder just link here*
 
   ## Outreach Activities
     1. TAP Expo, 2024, Georgia Gwinnett College
-    2. [Atlanta Science Festival](https://atlantasciencefestival.org/), 2024, Piedmont Park 
+    2. [Atlanta Science Festival](https://www.atlantasciencefestival.org), 2024, Piedmont Park 
     3. Class Workshops, 2024, Georgia Gwinnett College
  
   ## Technology
