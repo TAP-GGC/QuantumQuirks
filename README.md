@@ -28,6 +28,9 @@
     
   ## Technology
   This workshop will be using Blender and Adobe Aero for both desktop as well as mobile </br>
+    <img src= "Media/aeroAppLogo.png"> 
+    <img src= "Media/aeroDesktopLogo.png"> 
+    <img src= "Media/blenderLogo.png"> 
     * Blender Download: (https://www.blender.org/download/) </br>
     * Adobe Aero Download: https://helpx.adobe.com/aero/get-started.html#:~:text=Download%20and%20install&text=Click%20Get%20Aero%20Player%20(beta,the%20onscreen%20instructions%20to%20install.&text=Click%20Get%20Aero%20on%20the,to%20sign%2Din%20and%20install.
 
