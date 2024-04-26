@@ -4,7 +4,7 @@
 * Difficulty Level: Medium
 * Target Audience: 6th Grade - College
 * Duration of workshop: 60-90 minutes
-* Needed Materials: Computers with
+* Needed Materials: Computers with Blender and Adobe Aero Desktop version downloaded on them as well as phones with the mobile verson of Adobe Aero downloaded.
 
   ## Team
   Kelechi Ariwodo, 
