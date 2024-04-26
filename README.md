@@ -16,7 +16,7 @@
   Cindy Robertson
 
   ### Team Photo
-<img src= "Media/groupPhoto.JPG" width="400" height="200"> <br>
+<img src= "Media/groupPhoto.JPG" width="400" height="200"> </br>
 
   ## Publication
   1. Kelechi Ariwodo, Thien Nghi Duong, Carina George. Teaching Blender and Adobe Aero, ACMSE April 18-20 2024, Kennesaw State University
@@ -30,7 +30,7 @@
   This workshop will be using Blender and Adobe Aero for both desktop as well as mobile </br>
     <img src= "Media/aeroAppLogo.png" width="100"> 
     <img src= "Media/aeroDesktopLogo.png" width="100"> 
-    <img src= "Media/blenderLogo.png" width="100"> 
+    <img src= "Media/blenderLogo.png" width="100"> </br>
     * Blender Download: (https://www.blender.org/download/) </br>
     * Adobe Aero Download: https://helpx.adobe.com/aero/get-started.html#:~:text=Download%20and%20install&text=Click%20Get%20Aero%20Player%20(beta,the%20onscreen%20instructions%20to%20install.&text=Click%20Get%20Aero%20on%20the,to%20sign%2Din%20and%20install.
 
