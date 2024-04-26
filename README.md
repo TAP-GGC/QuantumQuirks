@@ -7,12 +7,12 @@
 * Needed Materials: Computers with
 
   ## Team
-  Kelechi Ariwodo
-  Thien Nghi Duong
+  Kelechi Ariwodo, 
+  Thien Nghi Duong, 
   Carina George
   
   ### Advisors
-  Anca Doloc Mihu
+  Anca Doloc Mihu, 
   Cindy Robertson
 
   ### Team Photo
