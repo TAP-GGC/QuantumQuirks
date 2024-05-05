@@ -36,20 +36,14 @@
     <img src= "Media/aeroAppLogo.png" width="100"> 
     <img src= "Media/aeroDesktopLogo.png" width="100"> 
     <img src= "Media/blenderLogo.png" width="100"> </br>
+
     * Blender Download: https://www.blender.org/download/ </br>
     * Adobe Aero Download: https://helpx.adobe.com/aero/get-started.html#:~:text=Download%20and%20install&text=Click%20Get%20Aero%20Player%20(beta,the%20onscreen%20instructions%20to%20install.&text=Click%20Get%20Aero%20on%20the,to%20sign%2Din%20and%20install.
 
-## Short demo instructions
-(Make short youtube video to place here 
-Example: https://www.youtube.com/watch?v=W7AJaQqIAE0)
- 
-## Workshop Instructions
-![How download Blender and Aero](Documents/How%20download%20Blender%20and%20Aero.pdf)
-      
 ## Project setup/Installation
-### Installing Blender  
-For instructions on how to install Blender please use the pdf file linked below. <br>
-![Installing Sphero Edu](Media/Installing%20Sphero%20Edu.pdf)
+### Installing Blender and Aero
+For instructions on how to install Blender and Aero please use the pdf file linked below. <br>
+![How download Blender and Aero](Documents/How%20download%20Blender%20and%20Aero.pdf)
 
 ### Creating a Teacher Sphero Account 
 For instructions on how to create a teacher sphero account please use the pdf file linked below. <br>
@@ -71,6 +65,10 @@ For instructions on how to build the maze please use the pdf file linked below. 
 ## Short demo instructions
 Below is a link to a 5 minute video walkthrough of our workshop that anyone with a sphero can do. <br>
 https://youtu.be/W7AJaQqIAE0
+(Make short youtube video to place here 
+Example: https://www.youtube.com/watch?v=W7AJaQqIAE0)
+ 
+
 ## Workshop Instructions
 ![Algorithm Worksheet](Media/Algorithm%20Worksheet.pdf)
 
