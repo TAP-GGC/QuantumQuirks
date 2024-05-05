@@ -44,6 +44,7 @@
 ### Installing Blender and Aero
 For instructions on how to install Blender and Aero please use the pdf file linked below. <br>
 ![How download Blender and Aero](Documents/How%20download%20Blender%20and%20Aero.pdf)
+Also, shown in this video [Instructions for Blender and Aero](https://youtu.be/mwFiZGFVci4)
 
 ## Short demo instructions 
 Below is a link to a 5 minute video walkthrough of our workshop that develops a snowmen in Blender and imports it in Aero. <br>
