@@ -51,5 +51,5 @@ Below is a link to a 5 minute video walkthrough of our workshop that develops a 
 [Snowmen: short demo](https://youtu.be/AOuorBHAStU)
 
 ## Workshop Instructions
-![Algorithm Worksheet](Media/Algorithm%20Worksheet.pdf)
+[3D Snowmen in AR Workshop](https://youtu.be/NL7IVITbNt0)
 
