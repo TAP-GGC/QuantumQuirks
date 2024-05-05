@@ -47,7 +47,7 @@ For instructions on how to install Blender and Aero please use the pdf file link
 
 ## Short demo instructions 
 Below is a link to a 5 minute video walkthrough of our workshop that develops a snowmen in Blender and imports it in Aero. <br>
-![Snowmen: short demo](https://youtu.be/AOuorBHAStU)
+[Snowmen: short demo](https://youtu.be/AOuorBHAStU)
 
 ## Workshop Instructions
 ![Algorithm Worksheet](Media/Algorithm%20Worksheet.pdf)
