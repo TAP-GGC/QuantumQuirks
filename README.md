@@ -9,7 +9,7 @@
   
   This project showcases how to build a 3D snowmen in Blender, and then how to import it in Abobe Aero environment. The project is geared towards educating and creating interest in the IT field for non STEM majors. By engaging in our workshop, students will get to experiment with Blender, 3D modeling and AR, which allows them to learn about how to play with AR technology. 
 * The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
-
+![Project Comercial](Media/Ad2.mov)
 
   ## Team
   Kelechi Ariwodo, 
